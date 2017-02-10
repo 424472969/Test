@@ -1,10 +1,7 @@
 package test1;
 
 public class T {
-	主干
-
-  分支2
-
-  	分支1
-
+public static void main(String[] args) {
+	
+}
 }
